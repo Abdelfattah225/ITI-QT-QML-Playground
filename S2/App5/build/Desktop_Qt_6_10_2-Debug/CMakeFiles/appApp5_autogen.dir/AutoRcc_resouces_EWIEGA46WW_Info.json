@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/build/Desktop_Qt_6_10_2-Debug/appApp5_autogen",
+	"CMAKE_BINARY_DIR" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/build/Desktop_Qt_6_10_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/build/Desktop_Qt_6_10_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/abdo/Workspace/ITI/12-QT/S2/App5",
+	"CMAKE_SOURCE_DIR" : "/home/abdo/Workspace/ITI/12-QT/S2/App5",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/build/Desktop_Qt_6_10_2-Debug/appApp5_autogen/include",
+	"INPUTS" : [ "/home/abdo/Workspace/ITI/12-QT/S2/App5/myphoto.jpeg" ],
+	"LOCK_FILE" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/appApp5_autogen.dir/AutoRcc_resouces_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resouces" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resouces.cpp",
+	"RCC_EXECUTABLE" : "/home/abdo/Qt/6.10.2/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/appApp5_autogen.dir/AutoRcc_resouces_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/abdo/Workspace/ITI/12-QT/S2/App5/resouces.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
