@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/home/abdo/Workspace/ITI/12-QT/S2/App5/Main.qml"
+                }
+            ],
+            "moduleId": "App5(appApp5)"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/App5/">
+    <file alias="resouces.qrc">/home/abdo/Workspace/ITI/12-QT/S2/App5/resouces.qrc</file>
+  </qresource>
+</RCC>
+

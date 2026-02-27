@@ -1,0 +1,14 @@
+-rootPath
+/home/abdo/Workspace/ITI/12-QT/S2/App1
+-cmake-output
+-output-file
+/home/abdo/Workspace/ITI/12-QT/S2/App1/build/Desktop_Qt_6_10_2-Debug/.qt/qml_imports/appApp1_conf.cmake
+-importPath
+/home/abdo/Workspace/ITI/12-QT/S2/App1/build/Desktop_Qt_6_10_2-Debug
+-importPath
+/home/abdo/Workspace/ITI/12-QT/S2/App1/build/Desktop_Qt_6_10_2-Debug/App1
+-importPath
+/home/abdo/Qt/6.10.2/gcc_64/qml
+-qrcFiles
+/home/abdo/Workspace/ITI/12-QT/S2/App1/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_App1.qrc
+/home/abdo/Workspace/ITI/12-QT/S2/App1/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appApp1_raw_qml_0.qrc
