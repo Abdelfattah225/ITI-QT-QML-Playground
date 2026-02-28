@@ -16,6 +16,7 @@ qt_add_qml_module(appTask1
     URI Task1
     QML_FILES
         Main.qml
+        splash.jpg
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
