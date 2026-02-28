@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/app2/">
-    <file alias="Main.qml">/home/abdo/Workspace/ITI/12-QT/S2/app2/Main.qml</file>
-  </qresource>
-</RCC>
-

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/app2">/home/abdo/Workspace/ITI/12-QT/S2/app2/build/Desktop_Qt_6_10_2-Debug/app2</file>
-
-  </qresource>
-</RCC>

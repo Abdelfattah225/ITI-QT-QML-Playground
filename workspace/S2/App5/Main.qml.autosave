@@ -10,7 +10,6 @@ Window {
         id:img
         width:1080
         height:1080
-        // os dependent very bad
         Image{
             id:img1
             width:640

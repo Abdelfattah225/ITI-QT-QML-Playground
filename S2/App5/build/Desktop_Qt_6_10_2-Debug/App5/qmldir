@@ -1,6 +1,0 @@
-module App5
-typeinfo appApp5.qmltypes
-prefer :/qt/qml/App5/
-Main 254.0 Main.qml
-depends QtQuick
-

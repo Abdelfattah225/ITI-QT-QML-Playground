@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/app3">
-    <file alias="qmldir">/home/abdo/Workspace/ITI/12-QT/S2/app3/build/Desktop_Qt_6_10_2-Debug/app3/qmldir</file>
-  </qresource>
-</RCC>
-

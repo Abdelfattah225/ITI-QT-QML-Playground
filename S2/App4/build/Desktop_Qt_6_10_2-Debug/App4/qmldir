@@ -1,6 +1,0 @@
-module App4
-typeinfo appApp4.qmltypes
-prefer :/qt/qml/App4/
-Main 254.0 Main.qml
-depends QtQuick
-
