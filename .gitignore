@@ -1,3 +1,7 @@
 build/
 Main.qml.autosave
 *.qrc
+*.mp4
+*.mkv
+*.autosave
+
