@@ -5,6 +5,7 @@ Window {
     height: 480
     visible: true
     title: qsTr("Hello World")
+    color: "#2b2b2b"
 
     Column{
         spacing: 15

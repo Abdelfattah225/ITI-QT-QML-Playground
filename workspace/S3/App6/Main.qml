@@ -12,7 +12,7 @@ Window {
         anchors.margins: 5
         spacing: 5
         flow: Flow.TopToBottom
-        layoutDirection: "RightToLeft"
+        layoutDirection: "LeftToRight"
         Rectangle{
             id: rect1
             width: 350

@@ -19,6 +19,7 @@ Window {
             value: 0
             width: 400
             indeterminate: false
+
         }
 
         Button {
