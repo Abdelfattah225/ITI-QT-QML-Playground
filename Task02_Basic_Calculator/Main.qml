@@ -99,6 +99,8 @@ ApplicationWindow {
             }
 
         }
+
+
     }
 
     function buttonPressed(value){

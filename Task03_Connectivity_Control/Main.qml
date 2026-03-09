@@ -315,7 +315,7 @@ ApplicationWindow {
                                 font.pixelSize: 16
                             }
 
-                            ColumnLayout {
+                            RColumnLayout {
                                 Layout.fillWidth: true
                                 spacing: 2
 
