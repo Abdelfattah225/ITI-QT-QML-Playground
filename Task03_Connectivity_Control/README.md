@@ -153,3 +153,8 @@ make -j$(nproc)
 - [ ] Step 8: Polish + Error Handling
 
 ---
+## 🎬 Demo Video
+
+[![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TomoRxRHntIP3vcyrDO_K5bbIwN2Me-7/view?usp=drive_link)
+
+> **[Click here to watch the full demo video on Google Drive](https://drive.google.com/file/d/1TomoRxRHntIP3vcyrDO_K5bbIwN2Me-7/view?usp=drive_link)**
