@@ -19,7 +19,7 @@ Window {
         color: "skyblue"
 
         onClicked: {
-            scale += .1A
+            scale += .1x;
         }
     }
 }

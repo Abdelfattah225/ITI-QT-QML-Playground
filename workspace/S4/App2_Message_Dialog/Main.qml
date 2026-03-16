@@ -25,7 +25,7 @@ Window {
             title: "Msg"
             text: "Hello, I am ITIian"
             buttons: MessageDialog.Ok | MessageDialog.Cancel
-            onAcceptedA: function(){
+            onAccepted: function(){
                 console.log("Dialog is Ok")
             }
             onRejected: function(){
