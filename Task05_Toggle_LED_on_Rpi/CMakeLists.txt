@@ -18,6 +18,7 @@ qt_add_qml_module(appTask05_Toggle_LED_on_Rpi
         Main.qml
         SOURCES LedController.cpp
         SOURCES LedController.h
+        RESOURCES README.md
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
