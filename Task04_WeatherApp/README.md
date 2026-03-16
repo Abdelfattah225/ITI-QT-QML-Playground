@@ -3,7 +3,7 @@
 
 A desktop weather application built with **Qt/QML** and **C++**
 
-
+## 🎬 Demo Video
 [![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tRMJImoFUy66XIlFLoo9IJ9xv03VQMzt/view?usp=drive_link)
 
 > **[Click here to watch the full demo video on Google Drive](https://drive.google.com/file/d/1tRMJImoFUy66XIlFLoo9IJ9xv03VQMzt/view?usp=drive_link)**
